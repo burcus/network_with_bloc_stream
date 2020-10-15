@@ -1,16 +1,7 @@
-# networkwithblocstream
+# Network with Bloc and Stream
 
-A new Flutter application.
+#### This is a basic example for listening to the network status using the BLoC and stream.
 
-## Getting Started
+![alt text](https://miro.medium.com/max/360/1*whW7xPPBn12s4kLQz_RYIg.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[For more](https://medium.com/@burcus/flutter-bloc-pattern-ve-stream-kullanarak-anl%C4%B1k-network-durumunu-dinleme-d5bd458b683a)
